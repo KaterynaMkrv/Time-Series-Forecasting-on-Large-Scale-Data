@@ -131,6 +131,9 @@ The module summarizes predictive performance using **descriptive statistics, err
 - Identify geographic regions of model underperformance
 - Visualize error concentration and variability using seaborn/Plotly maps
 - Download enriched predictions with error diagnostics for post-analysis
+![Demo Screenshot](docs/errors.png)
+
+
 
 ✅ Trigger via:
 ```python
