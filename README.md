@@ -122,9 +122,15 @@ All files with prediction results available for download.
 
 ---
 
-## 📊 Error Diagnostics (`prediction_analysis.py`)
-
+## 📊 Error Analytics & Decision Support Dashboard (`prediction_analysis.py`)
+Implemented an interactive error analytics dashboard for model evaluation and decision refinement. 
 Run **Show Predicted Error Analysis** directly in the app!
+
+The module summarizes predictive performance using **descriptive statistics, error distributions, and spatial error maps**, enabling users to:
+- Quantify prediction uncertainty (absolute/relative error metrics)
+- Identify geographic regions of model underperformance
+- Visualize error concentration and variability using seaborn/Plotly maps
+- Download enriched predictions with error diagnostics for post-analysis
 
 ✅ Trigger via:
 ```python
