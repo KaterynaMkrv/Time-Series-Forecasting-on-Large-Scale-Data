@@ -115,7 +115,7 @@ All files with prediction results available for download.
 
 - **Red markers**: Predicted future ship locations  
 - **Blue markers**: Historical positions  
-![Demo Screenshot](docs/predictions.png)
+![Demo Screenshot](docs/prediction.png)
 
 📌 **Powered by `plotly.graph_objects`**
 
