@@ -1,4 +1,4 @@
-# ⛵ Predictive ETA for Vessel Time Scheduling Efficiency
+# ⛵ Route optimization and prediction reliability system for shipping operators using Machine Learning.
 **Group 4 — Kateryna Makarova**
 
 Designed and deployed an end-to-end ML system to predict Expected Time of Arrival (ETA) for vessels using Automatic Identification System (AIS) data. The tool simulates a client-facing analytics product supporting real-time logistics route decisions, including model selection, ETA prediction accuracy evaluation, custom visualizations for error enalysis and routes depicted on maps. Built to demonstrate how **predictive modeling** can **optimize** transportation **strategy under uncertainty**.
