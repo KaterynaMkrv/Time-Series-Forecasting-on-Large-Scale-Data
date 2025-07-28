@@ -1,7 +1,7 @@
-# ⛵ Expected Travel Time Prediction for Vessels  
+# ⛵ Predictive ETA for Vessel Time Scheduling Efficiency
 **Group 4 — Kateryna Makarova**
 
-A powerful and interactive Streamlit application for predicting vessel ETA (Expected Time of Arrival) based on AIS data using multiple machine learning models and integrated analytics for  **route optimisation** and more efficient  **decision-making **.
+Designed and deployed an end-to-end ML system to predict Expected Time of Arrival (ETA) for vessels using Automatic Identification System (AIS) data. The tool simulates a client-facing analytics product supporting real-time logistics route decisions, including model selection, ETA prediction accuracy evaluation, and custom visualizations for error enalysis and routes depicted on maps. Built to demonstrate how **predictive modeling** can **optimize** transportation **strategy under uncertainty**.
 
 ---
 
