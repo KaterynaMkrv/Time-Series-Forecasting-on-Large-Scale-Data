@@ -115,8 +115,7 @@ All files with prediction results available for download.
 
 - **Red markers**: Predicted future ship locations  
 - **Blue markers**: Historical positions  
-- **Hover tooltips**: Show ETA & predicted arrival datetime
-- **Error analysis**: Error distribution and heatmap 
+![Demo Screenshot](docs/predictions.png)
 
 📌 **Powered by `plotly.graph_objects`**
 
