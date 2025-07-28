@@ -1,8 +1,7 @@
 # ⛵ Expected Travel Time Prediction for Vessels  
-Description: predictive analytics tool to optimize routing & reduce delays using Machine Learning, Streamlit and Docker.
 **Group 4 — Kateryna Makarova**
 
-A powerful and interactive Streamlit application for predicting vessel ETA (Expected Time of Arrival) based on AIS data using multiple machine learning models and integrated analytics.
+A powerful and interactive Streamlit application for predicting vessel ETA (Expected Time of Arrival) based on AIS data using multiple machine learning models and integrated analytics for route optimisation.
 
 ---
 
