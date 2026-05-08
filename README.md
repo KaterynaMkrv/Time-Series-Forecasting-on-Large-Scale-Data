@@ -18,7 +18,7 @@ This project leverages AIS data to **predict the remaining travel time of vessel
 - supply-chain and commodity flow analytics
 
 📌 **Key Benefits**:
-- Supports **port operations**, scheduling, and traffic management
+- Supports port operations, scheduling, and traffic management
 - Automatically processes raw AIS datasets 
 - Predicts and maps ETA in real-time for any given ship position
 - Offers in-depth **error diagnostics**, visualization, and interpretability for client
