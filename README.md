@@ -1,4 +1,4 @@
-# ⛵ Route optimization and prediction system using Machine Learning.
+# ⛵ Applied Machine Learning for Time-Series Forecasting on Large-Scale Transportation Data
 **Group 4 — Kateryna Makarova**
 
 Designed and deployed an end-to-end ML system to predict Expected Time of Arrival (ETA) for vessels using Automatic Identification System (AIS) data. The tool simulates a client-facing analytics product supporting real-time logistics route decisions, including model selection, ETA prediction accuracy evaluation, custom visualizations for error enalysis and routes depicted on maps. Built to demonstrate how **predictive modeling** can **optimize** transportation **strategy under uncertainty**.
