@@ -1,13 +1,21 @@
 # ⛵ Applied Machine Learning for Time-Series Forecasting on Large-Scale Transportation Data
 **Group 4 — Kateryna Makarova**
 
-Designed and deployed an end-to-end ML system to predict Expected Time of Arrival (ETA) for vessels using Automatic Identification System (AIS) data. The tool simulates a client-facing analytics product supporting real-time logistics route decisions, including model selection, ETA prediction accuracy evaluation, custom visualizations for error enalysis and routes depicted on maps. Built to demonstrate how **predictive modeling** can **optimize** transportation **strategy under uncertainty**.
+This project investigates predictive modeling techniques for large-scale spatiotemporal forecasting using real-world AIS transportation data. The work focuses on feature engineering, regression modeling, statistical evaluation, and operational decision optimization under noisy and incomplete data conditions.
 
 ---
 
 ## 🚀 Project Overview
 
 This project leverages AIS data to **predict the remaining travel time of vessels** between **Bremerhaven and Hamburg**, a critical application in maritime logistics.
+
+**The methodologies used in this project are transferable to**:
+- financial time-series forecasting
+- market microstructure analysis
+- volatility prediction
+- quantitative risk modeling
+- econometric regression tasks
+- supply-chain and commodity flow analytics
 
 📌 **Key Benefits**:
 - Supports **port operations**, scheduling, and traffic management
